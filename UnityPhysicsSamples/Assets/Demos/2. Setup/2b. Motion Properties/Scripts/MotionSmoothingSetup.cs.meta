@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 39c4245002b814d428218b3e46fa0e6e
+=======
+<<<<<<< HEAD:ECSSamples/Assets/StressTests/FloatStatistic.cs.meta
+guid: f1c468cb54ef145bf9b78250d99049d0
+=======
+guid: 39c4245002b814d428218b3e46fa0e6e
+>>>>>>> a319c0da6c6a55baadc31c10c8120a28e959766b:UnityPhysicsSamples/Assets/Demos/2. Setup/2b. Motion Properties/Scripts/MotionSmoothingSetup.cs.meta
+>>>>>>> a319c0da6c6a55baadc31c10c8120a28e959766b
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
